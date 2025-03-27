@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/de434d2b-017d-4010-aa70-1fe8d11d87ef)## Hi there 👋![](https://komarev.com/ghpvc/?username=fufu-nobuge&color=blue&style=flat-square)
+## Hi there 👋![](https://komarev.com/ghpvc/?username=fufu-nobuge&color=blue&style=flat-square)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=不弃微末，久久为功)
 
@@ -27,12 +27,12 @@
 - 📫 How to reach me: fuyutong0717@163.com
 
 <!-- snake -->
-<div align="center">  
-<picture>    
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mushi0/Mushi0/blob/output/github-snake-dark.svg" />    
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/Mushi0/Mushi0/blob/output/github-snake.svg" />    
-< img alt="github-snake" src="github-snake.svg" width="95%" />  
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mushi0/Mushi0/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mushi0/Mushi0/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" width="95%" />
+  </picture>
 </div>
 
   
